@@ -1,0 +1,14 @@
+C:\Users\Douglas\trainning\CSharp\CmdApi\bin\Debug\netcoreapp2.2\CmdApi.deps.json
+C:\Users\Douglas\trainning\CSharp\CmdApi\bin\Debug\netcoreapp2.2\CmdApi.runtimeconfig.json
+C:\Users\Douglas\trainning\CSharp\CmdApi\bin\Debug\netcoreapp2.2\CmdApi.runtimeconfig.dev.json
+C:\Users\Douglas\trainning\CSharp\CmdApi\bin\Debug\netcoreapp2.2\CmdApi.dll
+C:\Users\Douglas\trainning\CSharp\CmdApi\bin\Debug\netcoreapp2.2\CmdApi.pdb
+C:\Users\Douglas\trainning\CSharp\CmdApi\obj\Debug\netcoreapp2.2\CmdApi.csprojAssemblyReference.cache
+C:\Users\Douglas\trainning\CSharp\CmdApi\obj\Debug\netcoreapp2.2\CmdApi.csproj.CoreCompileInputs.cache
+C:\Users\Douglas\trainning\CSharp\CmdApi\obj\Debug\netcoreapp2.2\CmdApi.RazorAssemblyInfo.cache
+C:\Users\Douglas\trainning\CSharp\CmdApi\obj\Debug\netcoreapp2.2\CmdApi.RazorAssemblyInfo.cs
+C:\Users\Douglas\trainning\CSharp\CmdApi\obj\Debug\netcoreapp2.2\CmdApi.AssemblyInfoInputs.cache
+C:\Users\Douglas\trainning\CSharp\CmdApi\obj\Debug\netcoreapp2.2\CmdApi.AssemblyInfo.cs
+C:\Users\Douglas\trainning\CSharp\CmdApi\obj\Debug\netcoreapp2.2\CmdApi.RazorTargetAssemblyInfo.cache
+C:\Users\Douglas\trainning\CSharp\CmdApi\obj\Debug\netcoreapp2.2\CmdApi.dll
+C:\Users\Douglas\trainning\CSharp\CmdApi\obj\Debug\netcoreapp2.2\CmdApi.pdb
