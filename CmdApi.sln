@@ -5,7 +5,12 @@ VisualStudioVersion = 16.0.28922.388
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CmdApi", "CmdApi.csproj", "{5D761A3E-2E28-417B-A093-D0CA202FE7F6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CmdApiUnitTests", "..\CmdApiUnitTests\CmdApiUnitTests.csproj", "{6F3E9208-0B79-4B99-827C-5F2CB1D6CA7E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CmdApiUnitTests", "..\CmdApiUnitTests\CmdApiUnitTests.csproj", "{6F3E9208-0B79-4B99-827C-5F2CB1D6CA7E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9C973B90-DCE7-44D0-B01C-1AB01CC11439}"
+	ProjectSection(SolutionItems) = preProject
+		OpenCode.bat = OpenCode.bat
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

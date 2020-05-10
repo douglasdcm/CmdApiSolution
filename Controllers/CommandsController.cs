@@ -42,7 +42,7 @@ namespace CmdApi.Controllers
             _context.CommandItems.Add(command);
             _context.SaveChanges();
 
-            return CreatedAtAction("GetCommandItem", new Command{Id = command.Id}, command);
+            return CreatedAtAction("PostCommandItem", new Command{Id = command.Id}, command);
         }
 
         //PUT: api/command/n

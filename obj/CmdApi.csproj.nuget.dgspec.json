@@ -57,6 +57,14 @@
               "target": "Package",
               "version": "[2.2.0, )",
               "autoReferenced": true
+            },
+            "OpenCover": {
+              "target": "Package",
+              "version": "[4.7.922, )"
+            },
+            "ReportGenerator": {
+              "target": "Package",
+              "version": "[4.5.8, )"
             }
           },
           "imports": [

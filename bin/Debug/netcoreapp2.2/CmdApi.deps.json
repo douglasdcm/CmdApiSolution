@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v2.2",
-    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    "signature": "67cbc93266739560b3c87dfb6980b754532eb33b"
   },
   "compilationOptions": {
     "defines": [
@@ -26,7 +26,9 @@
         "dependencies": {
           "Microsoft.AspNetCore.App": "2.2.0",
           "Microsoft.AspNetCore.Razor.Design": "2.2.0",
-          "Microsoft.NETCore.App": "2.2.0"
+          "Microsoft.NETCore.App": "2.2.0",
+          "OpenCover": "4.7.922",
+          "ReportGenerator": "4.5.8"
         },
         "runtime": {
           "CmdApi.dll": {}
@@ -35,6 +37,8 @@
           "CmdApi.dll": {}
         }
       },
+      "OpenCover/4.7.922": {},
+      "ReportGenerator/4.5.8": {},
       "Microsoft.AspNet.WebApi.Client/5.2.6": {
         "dependencies": {
           "Newtonsoft.Json": "11.0.2",
@@ -3236,6 +3240,20 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "OpenCover/4.7.922": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Mwqq3r8cHj7qazNzWp1K9zmU15amC9bzMvFK83zM4D+ATSN/IOkJGZh6kEvXnTVJjl6LN6U/4QCdRHxulAISuA==",
+      "path": "opencover/4.7.922",
+      "hashPath": "opencover.4.7.922.nupkg.sha512"
+    },
+    "ReportGenerator/4.5.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ZJb/9d3zcC8hJN1Q6ubHslxTm+4mKYsE0Mit4RY7PoiNXZ9TWom7VGOaA6pILxZ353e/NrL4RImsznovdZNS5w==",
+      "path": "reportgenerator/4.5.8",
+      "hashPath": "reportgenerator.4.5.8.nupkg.sha512"
     },
     "Microsoft.AspNet.WebApi.Client/5.2.6": {
       "type": "package",
