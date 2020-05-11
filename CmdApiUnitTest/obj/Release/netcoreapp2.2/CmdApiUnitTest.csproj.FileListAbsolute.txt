@@ -1,0 +1,17 @@
+C:\Users\Douglas\trainning\CSharp\CmdApiUnitTest\bin\Release\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Douglas\trainning\CSharp\CmdApiUnitTest\bin\Release\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Douglas\trainning\CSharp\CmdApiUnitTest\bin\Release\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Douglas\trainning\CSharp\CmdApiUnitTest\bin\Release\netcoreapp2.2\CmdApiUnitTest.deps.json
+C:\Users\Douglas\trainning\CSharp\CmdApiUnitTest\bin\Release\netcoreapp2.2\CmdApiUnitTest.runtimeconfig.json
+C:\Users\Douglas\trainning\CSharp\CmdApiUnitTest\bin\Release\netcoreapp2.2\CmdApiUnitTest.runtimeconfig.dev.json
+C:\Users\Douglas\trainning\CSharp\CmdApiUnitTest\bin\Release\netcoreapp2.2\CmdApiUnitTest.dll
+C:\Users\Douglas\trainning\CSharp\CmdApiUnitTest\bin\Release\netcoreapp2.2\CmdApiUnitTest.pdb
+C:\Users\Douglas\trainning\CSharp\CmdApiUnitTest\bin\Release\netcoreapp2.2\CmdApi.dll
+C:\Users\Douglas\trainning\CSharp\CmdApiUnitTest\bin\Release\netcoreapp2.2\CmdApi.pdb
+C:\Users\Douglas\trainning\CSharp\CmdApiUnitTest\obj\Release\netcoreapp2.2\CmdApiUnitTest.csprojAssemblyReference.cache
+C:\Users\Douglas\trainning\CSharp\CmdApiUnitTest\obj\Release\netcoreapp2.2\CmdApiUnitTest.csproj.CoreCompileInputs.cache
+C:\Users\Douglas\trainning\CSharp\CmdApiUnitTest\obj\Release\netcoreapp2.2\CmdApiUnitTest.AssemblyInfoInputs.cache
+C:\Users\Douglas\trainning\CSharp\CmdApiUnitTest\obj\Release\netcoreapp2.2\CmdApiUnitTest.AssemblyInfo.cs
+C:\Users\Douglas\trainning\CSharp\CmdApiUnitTest\obj\Release\netcoreapp2.2\CmdApiUnitTest.csproj.CopyComplete
+C:\Users\Douglas\trainning\CSharp\CmdApiUnitTest\obj\Release\netcoreapp2.2\CmdApiUnitTest.dll
+C:\Users\Douglas\trainning\CSharp\CmdApiUnitTest\obj\Release\netcoreapp2.2\CmdApiUnitTest.pdb
