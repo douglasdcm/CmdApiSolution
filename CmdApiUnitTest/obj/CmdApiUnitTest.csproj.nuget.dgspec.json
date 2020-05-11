@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Douglas\\trainning\\CSharp\\CmdApiUnitTest\\CmdApiUnitTest.csproj": {}
+    "C:\\Users\\Douglas\\trainning\\CSharp\\CmdApiSolution\\CmdApiUnitTest\\CmdApiUnitTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Douglas\\trainning\\CSharp\\CmdApiUnitTest\\CmdApiUnitTest.csproj": {
+    "C:\\Users\\Douglas\\trainning\\CSharp\\CmdApiSolution\\CmdApiUnitTest\\CmdApiUnitTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Douglas\\trainning\\CSharp\\CmdApiUnitTest\\CmdApiUnitTest.csproj",
+        "projectUniqueName": "C:\\Users\\Douglas\\trainning\\CSharp\\CmdApiSolution\\CmdApiUnitTest\\CmdApiUnitTest.csproj",
         "projectName": "CmdApiUnitTest",
-        "projectPath": "C:\\Users\\Douglas\\trainning\\CSharp\\CmdApiUnitTest\\CmdApiUnitTest.csproj",
+        "projectPath": "C:\\Users\\Douglas\\trainning\\CSharp\\CmdApiSolution\\CmdApiUnitTest\\CmdApiUnitTest.csproj",
         "packagesPath": "C:\\Users\\Douglas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Douglas\\trainning\\CSharp\\CmdApiUnitTest\\obj\\",
+        "outputPath": "C:\\Users\\Douglas\\trainning\\CSharp\\CmdApiSolution\\CmdApiUnitTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -30,8 +30,8 @@
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "C:\\Users\\Douglas\\trainning\\CSharp\\CmdApi\\CmdApi.csproj": {
-                "projectPath": "C:\\Users\\Douglas\\trainning\\CSharp\\CmdApi\\CmdApi.csproj"
+              "C:\\Users\\Douglas\\trainning\\CSharp\\CmdApiSolution\\CmdApi\\CmdApi.csproj": {
+                "projectPath": "C:\\Users\\Douglas\\trainning\\CSharp\\CmdApiSolution\\CmdApi\\CmdApi.csproj"
               }
             }
           }
@@ -88,14 +88,14 @@
         }
       }
     },
-    "C:\\Users\\Douglas\\trainning\\CSharp\\CmdApi\\CmdApi.csproj": {
+    "C:\\Users\\Douglas\\trainning\\CSharp\\CmdApiSolution\\CmdApi\\CmdApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Douglas\\trainning\\CSharp\\CmdApi\\CmdApi.csproj",
+        "projectUniqueName": "C:\\Users\\Douglas\\trainning\\CSharp\\CmdApiSolution\\CmdApi\\CmdApi.csproj",
         "projectName": "CmdApi",
-        "projectPath": "C:\\Users\\Douglas\\trainning\\CSharp\\CmdApi\\CmdApi.csproj",
+        "projectPath": "C:\\Users\\Douglas\\trainning\\CSharp\\CmdApiSolution\\CmdApi\\CmdApi.csproj",
         "packagesPath": "C:\\Users\\Douglas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Douglas\\trainning\\CSharp\\CmdApi\\obj\\",
+        "outputPath": "C:\\Users\\Douglas\\trainning\\CSharp\\CmdApiSolution\\CmdApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
